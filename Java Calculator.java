@@ -117,14 +117,6 @@ public class Calculator {
             }
         });
                
-        //btn6:
-        btn6.setSize(80, 50);
-        btn6.setLocation(200, 310);
-        btn6.addActionListener(new ActionListener(){
-            public void actionPerformed(ActionEvent arg0) {
-                txtScreen.append("6");
-            }
-        });
        
         //btn7:
         btn7.setSize(80, 50);
